@@ -1,0 +1,21 @@
+--2022-03-16 16:05:01--  https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2
+Resolving mail-attachment.googleusercontent.com (mail-attachment.googleusercontent.com)... 142.251.40.97, 2607:f8b0:4006:81f::2001
+Connecting to mail-attachment.googleusercontent.com (mail-attachment.googleusercontent.com)|142.251.40.97|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://mail.google.com/mail/u/1/?ui=2 [following]
+--2022-03-16 16:05:01--  https://mail.google.com/mail/u/1/?ui=2
+Resolving mail.google.com (mail.google.com)... 142.250.80.37, 2607:f8b0:4006:80b::2005
+Connecting to mail.google.com (mail.google.com)|142.250.80.37|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/1/?ui%3D2&followup=https://mail.google.com/mail/u/1/?ui%3D2&emr=1 [following]
+--2022-03-16 16:05:01--  https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/1/?ui%3D2&followup=https://mail.google.com/mail/u/1/?ui%3D2&emr=1
+Resolving accounts.google.com (accounts.google.com)... 142.250.72.109, 2607:f8b0:4006:809::200d
+Connecting to accounts.google.com (accounts.google.com)|142.250.72.109|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html?ui=2’
+
+index.html?ui=2     [<=>    ]       0  --.-KB/s               index.html?ui=2     [ <=>   ]  95.77K  --.-KB/s    in 0.08s   
+
+2022-03-16 16:05:01 (1.10 MB/s) - ‘index.html?ui=2’ saved [98066]
+
